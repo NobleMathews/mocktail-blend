@@ -10,10 +10,17 @@
 
 * Please find the README for both the ```Path Extractor``` tool and the ```Extended code2vec model``` in their respective folders.
 
-* The datasets to reproduce our results can be downloaded from [here](https://archive.org/details/mocktail-datasets).
+## Datasets
+### Method Naming
+* Download and create raw datasets using [this](https://github.com/NobleMathews/mocktail_blend/blob/main/mocktail-path-extractor/filter_repos.py) script.
+* Download the processed datasets from [here](https://archive.org/details/mocktail-dataset-method-naming-tse). Processed datasets are path-extracted versions of the raw datasets. They can be readily used to train the model.
 
+### Program Classification and Clone Detection
+* Download the raw datasets from CodeXGlue's [repository](https://github.com/microsoft/CodeXGLUE/tree/main/Code-Code/Clone-detection-POJ-104#dataset).
+* Download the processed datasets from [here](https://archive.org/details/mocktail-dataset-program-classification-tse). Processed datasets are path-extracted versions of the raw datasets. They can be readily used to train the model.
+
+## Contact
 * In case of any queries or if you would like to give any suggestions, please feel free to contact:
-  
   - Karthik Chandra (cs17b026@iittp.ac.in) 
   - Noble Saji Mathews (ch19b023@iittp.ac.in)
   - Dheeraj Vagavolu (cs17b028@iittp.ac.in) 
