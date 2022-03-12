@@ -1,0 +1,11 @@
+pydot==1.4.2
+networkx==2.5.1
+multiprocess==0.70.11.1
+filelock==3.0.12
+configparser==5.0.2
+questionary==1.10.0
+psutil==5.8.0
+requests==2.22.0
+# Python 3.10 currently not supported
+ray
+tqdm==4.62.3
