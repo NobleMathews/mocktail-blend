@@ -1,0 +1,18 @@
+{
+    "catboost": "https://github.com/catboost/catboost",
+    "esp-idf": "https://github.com/espressif/esp-idf",
+    "fastsocket": "https://github.com/fastos/fastsocket",
+    "FFmpeg": "https://github.com/FFmpeg/FFmpeg",
+    "gcc": "https://github.com/gcc-mirror/gcc",
+    "kbengine": "https://github.com/kbengine/kbengine",
+    "openssl": "https://github.com/openssl/openssl",
+    "poco": "https://github.com/pocoproject/poco",
+    "postgres": "https://github.com/postgres/postgres",
+    "qemu": "https://github.com/qemu/qemu",
+    "qmk_firmware": "https://github.com/qmk/qmk_firmware",
+    "radare2": "https://github.com/radareorg/radare2",
+    "rt-thread": "https://github.com/RT-Thread/rt-thread",
+    "sumatrapdf": "https://github.com/sumatrapdfreader/sumatrapdf",
+    "vlc": "https://github.com/videolan/vlc",
+    "zig": "https://github.com/ziglang/zig"
+}
