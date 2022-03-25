@@ -76,6 +76,7 @@ The script take the input parameters from the ```config.ini``` file. The paramet
 | train_split             | -             | Percentage of paths in training set                                                                                                                                                                                     |
 | test_split              | -             | Percentage of paths in testing set                                                                                                                                                                                      |
 | val_split               | -             | Percentage of paths in validation set                                                                                                                                                                                   |
+| generateAll             | -             | If this field is set to true all representations (ast, cfg, pdg & ddg) will be generated                                                                                                                                |
 
 **STEP-2:** Add dataset to be processed into ```1_input``` and update config file based on task to be performed
 
