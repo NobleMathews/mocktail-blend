@@ -1,4 +1,4 @@
-# <div align="center">**IEEE TSE - A Mocktail of Source Code Representations**</div>
+# <div align="center">**Mocktail++**</div>
 
 * A novel source code representation for capturing syntactic and semantic program features by utilizing multiple intermediate representations of code.
 
